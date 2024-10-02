@@ -1,0 +1,45 @@
+{
+  "welcome": {
+    "text": "Hi there, We are processing your request"
+  },
+  "bye": {
+    "content_sid": "HXc4f2e2a04742d848f4fc4ec52241bcba"
+  },
+  "hi":{
+    "content_sid": "HXd040c4c885d75dc827c8672fb154d9c0",
+    "content_variable": {"1":"{{ name }}"}
+  },
+  "greeting":{
+    "content_sid": "HX15dbf78cc5317900db33c717fbe09b14"
+  },
+  "postcode_verfiied":{
+    "content_sid": "HXae2c4459b62f10386b6468a7c976e6d0"
+  },
+  "fund_value_past1":{
+    "image":"https://pensionvalue.blob.core.windows.net/pensionvalue/image.jpeg"
+  },
+  "fund_value_past2":{
+    "content_sid": "HX04bb4fc0063cd26507243e546f39272a"
+  },
+  "retirement_age_1":{
+    "text": "Hi there, We are processing your request. Please try again later"
+  },
+  "estd_fund_value_1":{
+    "content_sid": "HX686b9d3b68c36538002fcebe125a9138"
+  },
+  "last_contribution_1":{
+    "content_sid": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  },
+  "fund_allocation_1":{
+    "content_sid": "HX1e66de0dcd9f9100444dbe25ef4249e2"
+  },
+  "more_yes":{
+    "content_sid": "HXae2c4459b62f10386b6468a7c976e6d0"
+  },
+  "resolve_yes":{
+    "content_sid": "HX04bb4fc0063cd26507243e546f39272a"
+  },
+  "more_no": {
+    "text": "Thank You! Have a nice day"
+  }
+}
